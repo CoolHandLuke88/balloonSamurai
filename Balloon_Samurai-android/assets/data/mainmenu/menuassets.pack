@@ -1,0 +1,33 @@
+
+menuassets.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg-menu
+  rotate: false
+  xy: 1, 69
+  size: 680, 600
+  orig: 680, 600
+  offset: 0, 0
+  index: -1
+btncontinuemenu
+  rotate: false
+  xy: 1, 35
+  size: 100, 32
+  orig: 100, 32
+  offset: 0, 0
+  index: -1
+btnexitmenu
+  rotate: false
+  xy: 683, 637
+  size: 100, 32
+  orig: 100, 32
+  offset: 0, 0
+  index: -1
+btnstartmenu
+  rotate: false
+  xy: 1, 1
+  size: 100, 32
+  orig: 100, 32
+  offset: 0, 0
+  index: -1

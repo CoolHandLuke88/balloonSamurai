@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to="com.badlogic.gdx">
+	<inherits name="com.esotericsoftware.tablelayout"/>
+	<source path="gdx">
+		<include name="src/com/mcdonald/balloonsamurai/Assets.java"/>
+		<include name="src/com/mcdonald/balloonsamurai/BalloonSamurai.java"/>
+		<include name="src/com/mcdonald/balloonsamurai/gameobjects/DynamicGameObject.java"/>
+		<include name="src/com/mcdonald/balloonsamurai/gameobjects/Enemy.java"/>
+		<include name="src/com/mcdonald/balloonsamurai/gameobjects/GameObject.java"/>
+		<include name="src/com/mcdonald/balloonsamurai/gameobjects/Hero.java"/>
+		<include name="src/com/mcdonald/balloonsamurai/levelone/LevelOne.java"/>
+		<include name="src/com/mcdonald/balloonsamurai/levelone/LevelOneAssets.java"/>
+		<include name="src/com/mcdonald/balloonsamurai/leveltwo/LevelTwo.java"/>
+		<include name="src/com/mcdonald/balloonsamurai/mainmenu/MainMenu.java"/>
+		<include name="src/com/mcdonald/balloonsamurai/overlaptester/OverlapTester.java"/>
+		<include name="src/com/mcdonald/balloonsamurai/world/World.java"/>
+		<include name="src/com/mcdonald/balloonsamurai/world/WorldRenderer.java"/>
+		<include name="graphics/g2d/Animation.java"/>
+		<include name="graphics/g3d/Animation.java"/>
+	</source>
+</module>
